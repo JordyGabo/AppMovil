@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">appDiceRoller</string>
+    <string name="rodar_dado">Rodar Dado</string>
+</resources>
